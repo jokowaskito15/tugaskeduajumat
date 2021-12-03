@@ -1,0 +1,17 @@
+5a. Suatu method wajib mengembalikan nilai (return value) ke pemanggilnya.
+Jawabannya adalah ya benar, karena suatu method jika tidak mengembalikan nilai ke pemanggilnya maka hasilnya tidak akan ada, atau tidak ada output yang dihasilkan.
+
+5b. Suatu method wajib meminta parameter dari pemanggilnya.
+Jawabannya adalah tidak, karena tanpa parameter pun method masih bisa menghasilkan sebuah nilai.
+Parameter digunakan jika membutuhkan suatu nilai yang lebih spesifik dan didalamnya mempunyai suatu pilihan.
+
+5c. Suatu method wajib memiliki parameter dan return value dengan tipe data yang sama.
+Jawabannya adalah ya benar, karena kalau datanya tidak sama maka program tidak akan berjalan (error).
+
+5d. Suatu method dapat memiliki lebih dari satu parameter.
+Jawabannya adalah ya benar, karena jika parameter ada lebih dari satu, itu artinya pilihan yg ada di source code juga banyak sehingga dibutuhkan lebih dari satu parameter.
+
+5e. Suatu method dapat memiliki lebih dari satu return value.
+Jawabannya adalah tidak, karena method hanya memiliki satu return value, jika mau banyak berarti harus memakai parameter.
+
+ 
